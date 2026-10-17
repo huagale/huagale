@@ -1,31 +1,123 @@
-# Виктория Сергеева
+<div align="center">
 
-**Бизнес-аналитика · Аналитика данных · Business Intelligence**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:C4B5FD,50:DDD6FE,100:FBCFE8&amp;height=190&amp;section=header&amp;text=Viktoriia%20Sergeeva&amp;fontSize=42&amp;fontColor=29243D&amp;fontAlignY=38&amp;desc=BUSINESS%20ANALYTICS%20%20%2F%20%20DATA%20%20%2F%20%20BI&amp;descSize=14&amp;descAlignY=60" alt="Viktoriia Sergeeva — Business Analytics / Data / BI" />
 
-Студентка 4 курса НИУ ВШЭ — Санкт-Петербург, программа «Международный бизнес», профиль Data-Driven Company.
+### Привет, я Вика
 
-Мне интересно разбираться в работе компаний: изучать процессы, проверять данные и обосновывать решения. В учебных проектах работала с большими таблицами, очищала данные, выделяла характеристики из текстовых полей и сверяла результаты с первичными источниками.
+Бизнес-аналитика · Аналитика данных · Business Intelligence
 
-## Избранные проекты
+Учусь в **НИУ ВШЭ — Санкт-Петербург**  
+«Международный бизнес» · **Data-Driven Company**
 
-- [FRPS — прогнозирование расхода топлива](https://github.com/huagale/the-forecast-system-of-fuel-consumption): командный проект для автобусного перевозчика, анализ компании и процессов AS-IS / TO-BE, прогнозирование и обоснование решения.
-- [Анализ рынка кухонных смесителей](https://github.com/huagale/kitchen-faucets-market-analysis): подготовка 218 668 очищенных записей, исследование конкурентов, сегментация и две страницы Power BI.
-- [BI-аналитика ресторанов](https://github.com/huagale/bi-tools): анализ оценок и посетителей, три страницы Power BI и расчёты DAX.
-- [Машинное обучение](https://github.com/huagale/ML): учебные задачи прогнозирования цен на квартиры и классификации пассажиров Titanic.
-- [Презентации проектов](https://github.com/huagale/presentations): аналитические кейсы, исследования и рекомендации.
+</div>
 
-## Бизнес-анализ
+---
 
-BPMN, EPC, IDEF0, межфункциональные схемы, анализ рынка и конкурентов, SWOT и PESTEL.
+Мне нравится разбираться, **как работает бизнес и что об этом говорят данные**. В моих проектах встречаются большие таблицы, дашборды, прогнозные модели и схемы процессов.
 
-Развиваю SQL и навыки работы с данными. Дополнительно знакома с 1С:ERP, Microsoft Project и Google Workspace.
+Работаю с данными от подготовки до интерпретации: очищаю и проверяю исходные таблицы, выделяю признаки из текстовых полей, сопоставляю результаты с первичными источниками и представляю выводы в понятном виде.
 
-Английский — C1. Китайский — HSK 3.
+## Мой стек
 
+**Данные и код**
 
-## Инструменты
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-7560AE?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Табличная аналитика:** Excel и Power Query.
+**Дашборды и визуализация**
 
-<!-- Created with GPRM (https://gprm.itsvg.in/), with formatting adjustments. -->
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-E5BB3D?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power_Query-5B8C51?style=for-the-badge)
+
+**Аналитика и процессы**
+
+`BPMN` · `EPC` · `IDEF0` · `Межфункциональные схемы`  
+Анализ рынка и конкурентов · Сегментация · SWOT · PESTEL
+
+<details>
+<summary>Ещё инструменты, с которыми работаю</summary>
+
+- **Python:** NumPy, Matplotlib, scikit-learn, Selenium.
+- **Дизайн и организация работы:** Figma, Microsoft Project, Microsoft Office, Google Workspace.
+- **Корпоративные системы:** 1С:ERP.
+
+</details>
+
+## Проекты
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Прогноз расхода топлива
+
+**[FRPS — Fuel Rate Prediction System](https://github.com/huagale/the-forecast-system-of-fuel-consumption)**
+
+Проект для автобусного перевозчика: подготовка данных автопарка, прогнозирование расхода топлива, анализ компании и процессов AS-IS / TO-BE.
+
+Мой вклад — сбор и подготовка данных, участие в разработке кода обучения моделей, анализ компании и моделирование процессов.
+
+<sub>Python · ML · Бизнес-анализ · AS-IS / TO-BE</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### Анализ рынка смесителей
+
+**[Kitchen Faucets Market Analysis](https://github.com/huagale/kitchen-faucets-market-analysis)**
+
+Исследование рынка на основе **218 668 очищенных записей**: конкуренты, сегментация и две страницы Power BI.
+
+Занималась проверкой и очисткой данных, выделением характеристик из текстовых полей и сверкой информации с карточками товаров на маркетплейсах.
+
+<sub>Python · Подготовка данных · Power BI · Анализ рынка</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### BI-аналитика ресторанов
+
+**[BI Tools](https://github.com/huagale/bi-tools)**
+
+Три страницы Power BI с анализом оценок ресторанов и характеристик посетителей. Расчёты DAX, визуализация показателей и поиск закономерностей.
+
+<sub>Power BI · DAX · Дашборды · Визуализация</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### Машинное обучение
+
+**[ML — учебные проекты](https://github.com/huagale/ML)**
+
+Прогнозирование цен на квартиры и классификация пассажиров Titanic: подготовка признаков, обучение и сравнение моделей.
+
+<sub>Python · Pandas · scikit-learn · ML</sub>
+
+</td>
+</tr>
+</table>
+
+**[Презентации и аналитические кейсы →](https://github.com/huagale/presentations)**  
+Исследования компаний, разбор бизнес-задач и рекомендации.
+
+---
+
+<div align="center">
+
+**Языки**  
+Русский · English C1 · 中文 HSK 3
+
+<sub>Данные интересны, когда помогают лучше понять задачу.</sub>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FBCFE8,50:DDD6FE,100:C4B5FD&amp;height=85&amp;section=footer" alt="" />
+
+<!-- Оформление на основе GPRM: https://gprm.itsvg.in/ -->
