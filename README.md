@@ -1,13 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:C4B5FD,50:DDD6FE,100:FBCFE8&amp;height=190&amp;section=header&amp;text=Viktoriia%20Sergeeva&amp;fontSize=42&amp;fontColor=29243D&amp;fontAlignY=38&amp;desc=BUSINESS%20ANALYTICS%20%20%2F%20%20DATA%20%20%2F%20%20BI&amp;descSize=14&amp;descAlignY=60" alt="Виктория Сергеева — Business Analytics / Data / BI" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:C4B5FD,50:DDD6FE,100:FBCFE8&amp;height=190&amp;section=header&amp;text=Виктория%20Сергеева&amp;fontSize=42&amp;fontColor=29243D&amp;fontAlignY=38&amp;desc=BUSINESS%20ANALYTICS%20%20%2F%20%20DATA%20%20%2F%20%20BI&amp;descSize=14&amp;descAlignY=60" alt="Виктория Сергеева — Business Analytics / Data / BI" />
 
 ### Привет, я Вика
 
-Бизнес-аналитика · Аналитика данных · Business Intelligence
+Бизнес-аналитика | Аналитика данных | Business Intelligence
 
 Студентка 4 курса **НИУ ВШЭ — Санкт-Петербург**  
-«Международный бизнес» · **Data-Driven Company**
+«Международный бизнес» | **Data-Driven Company**
 
 </div>
 
@@ -35,8 +35,8 @@
 
 **Аналитика и процессы**
 
-`BPMN` · `EPC` · `IDEF0` · `Межфункциональные схемы`  
-Анализ рынка и конкурентов · Сегментация · SWOT · PESTEL
+`BPMN` | `EPC` | `IDEF0` | `Межфункциональные схемы`  
+Анализ рынка и конкурентов | Сегментация |
 
 <details>
 <summary>Ещё инструменты, с которыми работаю</summary>
@@ -61,7 +61,7 @@
 
 Мой вклад — сбор и подготовка данных, участие в разработке кода обучения моделей, анализ компании и моделирование процессов.
 
-<sub>Python · ML · Бизнес-анализ · AS-IS / TO-BE</sub>
+<sub>Python | ML | Бизнес-анализ</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -74,7 +74,7 @@
 
 Занималась проверкой и очисткой данных, выделением характеристик из текстовых полей и сверкой информации с карточками товаров на маркетплейсах.
 
-<sub>Python · Подготовка данных · Power BI · Анализ рынка</sub>
+<sub>Python | Подготовка данных | Power BI | Анализ рынка</sub>
 
 </td>
 </tr>
@@ -87,7 +87,7 @@
 
 Три страницы Power BI с анализом оценок ресторанов и характеристик посетителей. Расчёты DAX, визуализация показателей и поиск закономерностей.
 
-<sub>Power BI · DAX · Дашборды · Визуализация</sub>
+<sub>Power BI | DAX | Дашборды | Визуализация</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -98,7 +98,7 @@
 
 Прогнозирование цен на квартиры и классификация пассажиров Titanic: подготовка признаков, обучение и сравнение моделей.
 
-<sub>Python · Pandas · scikit-learn · ML</sub>
+<sub>Python | Pandas | scikit-learn | ML</sub>
 
 </td>
 </tr>
@@ -112,7 +112,7 @@
 <div align="center">
 
 **Языки**  
-Русский · English C1 · 中文 HSK 3
+Русский | English C1 | 中文 HSK 3
 
 <sub>Данные интересны, когда помогают лучше понять задачу.</sub>
 
