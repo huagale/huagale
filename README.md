@@ -1,4 +1,4 @@
-<div align = "center">
+<div align = "center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:061A2D,50:0D5267,100:49B1AE&amp;height=45" alt="" />
 
   ### Привет, я Вика
 
@@ -116,6 +116,4 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FBCFE8,50:DDD6FE,100:C4B5FD&amp;height=85&amp;section=footer" alt="" />
-
-<!-- Оформление на основе GPRM: https://gprm.itsvg.in/ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:49B1AE,50:0D5267,100:061A2D&amp;height=25" alt="" />
