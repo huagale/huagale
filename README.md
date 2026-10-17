@@ -1,7 +1,3 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:C4B5FD,50:DDD6FE,100:FBCFE8&amp;height=190&amp;section=header&amp;text=Виктория%20Сергеева&amp;fontSize=42&amp;fontColor=29243D&amp;fontAlignY=38&amp;desc=BUSINESS%20ANALYTICS%20%20%2F%20%20DATA%20%20%2F%20%20BI&amp;descSize=14&amp;descAlignY=60" alt="Виктория Сергеева — Business Analytics / Data / BI" />
-
 ### Привет, я Вика
 
 Бизнес-аналитика | Аналитика данных | Business Intelligence
