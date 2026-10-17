@@ -1,3 +1,4 @@
+<div align = "center">
 ### Привет, я Вика
 
 Бизнес-аналитика | Аналитика данных | Business Intelligence
