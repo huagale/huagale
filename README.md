@@ -37,7 +37,7 @@
 Анализ рынка и конкурентов | Сегментация |
 
 <details>
-<summary>Ещё инструменты, с которыми работаю</summary>
+<summary>Дополнительные инструменты, с которыми работаю</summary>
 
 - **Python:** NumPy, Matplotlib, scikit-learn, Selenium.
 - **Дизайн и организация работы:** Figma, Microsoft Project, Microsoft Office, Google Workspace.
